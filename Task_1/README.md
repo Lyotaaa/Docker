@@ -24,6 +24,6 @@ docker build -t task_1 .
 docker run --name run-server -d -p 3000:80 task_1
 ```
 
-## Сылка сайта
+## Ссылка на сайт
 
 http://localhost:3000/
