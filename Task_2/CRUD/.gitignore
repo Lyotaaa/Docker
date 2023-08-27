@@ -1,5 +1,0 @@
-env
-.idea
-*env
-stocks_products/*.env
-stocks_products/.env
